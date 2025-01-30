@@ -1,0 +1,431 @@
+Package: com.amywhile.aemulotrial
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2137
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulo
+Filename: ./debs/com.amywhile.aemulotrial_1.2.4_iphoneos-arm.deb
+Size: 589452
+MD5sum: 5d7a18c9c80cd9e185123584edf6e1ad
+SHA1: f8539f29079d5e42d1f25bf56093778d46f3fbe1
+SHA256: 42af1208cc3313caa283dbaff922f7c43cd6aa55f08d123014b11dd1ccc5ef9c
+Section: Tweaks
+Description: NFC Frickery
+Tag: compatible_min::ios13.0
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/aemulo-trial
+Icon: https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Name: Aemulo (Trial)
+
+Package: com.amywhile.aemulotrial
+Version: 1.2.4
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2351
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulo
+Filename: ./debs/com.amywhile.aemulotrial_1.2.4_iphoneos-arm64.deb
+Size: 608146
+MD5sum: 07dc137fe92a07fbb7c070c8ae3921ba
+SHA1: b8005604cca5d1a925c0046b564ca088bcb04732
+SHA256: 9e0b76b86e317f4d215ef75ff5ab067f0c723fc8b136f4a4ca7532b675c0ade1
+Section: Tweaks
+Description: NFC Frickery
+Tag: compatible_min::ios13.0
+Author: Amy While <support@anamy.gay>
+Depiction: https://chariz.com/get/aemulo-trial
+Icon: https://img.chariz.cloud/icon/aemulo-trial/icon@3x.png
+Name: Aemulo (Trial)
+
+Package: com.cydiageek.discreetvoicememos
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 294
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Filename: ./debs/discreetvoicememos_1.1.2.deb
+Size: 16548
+MD5sum: 4e496e2dc5c627d62561c6c0f628f586
+SHA1: c5e681f10e39e596be1013ab0300cc223c70880b
+SHA256: c6b7c899148f4baac25539bd0394acf979c277af8a12c50124cb76c7d876a63c
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
+Description: Make Discreet the VoiceMemos App!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
+Dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/discreetVoiceMemos.bundle/discreetVoiceMemos@2x.png
+Name: discreetVoiceMemos
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.cydiageek.discreetvoicememos
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 359
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/discreetvoicememos_1.1.2_iphoneos-arm64.deb
+Size: 15892
+MD5sum: 93715b07cf30930b516f439c5bf010dc
+SHA1: 0ac13a5e40bef79557a777b9a9ec165e82b1ac93
+SHA256: 38ece7927d096c93a9f843544a355e62f2bde79a70228e6d3fdc4b8b1cadfa68
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
+Description: Make Discreet the VoiceMemos App!
+Tag: purpose::extension
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=discreetvoicememosDp
+Dev: lucaluca86
+Icon: file:///var/jb/Library/PreferenceBundles/discreetVoiceMemos.bundle/discreetVoiceMemos@2x.png
+Name: discreetVoiceMemos
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 154
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/ccvpn_1.0.6.deb
+Size: 14914
+MD5sum: b2bd735685cc3ca8bc5bd8c02b6034d7
+SHA1: 0ac2e86441f9729e814b9fde43aeb9f7f69a2282
+SHA256: 4d63391da4eae7419237600ba1e90b6dabf0c1f61a4aad280f533a1873a53ede
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
+Package: com.kingpuffdaddi.control-center.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/ccvpn_1.0.6_iphoneos-arm64.deb
+Size: 15216
+MD5sum: 92b2ebe26ff0023b260c39413cffbe80
+SHA1: 881eaeb8f9c22be798e65478940783ad672b0753
+SHA256: e65eafb89e52fef08e814323e43c1d5c7474955dc401504fd1783ff536fc6955
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Description: A Control Center Module to connect/disconnect VPN
+Tag: purpose::extension
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccvpnDp
+Dev: kingpuffdaddi
+Icon: file:///Library/ControlCenter/Bundles/CCVPN.bundle/Icon@2x.png
+Name: CCVPN
+
+Package: com.mtac.ampere
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 604
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm64.deb
+Size: 101292
+MD5sum: 4953fb6aa0044cdb83b5b689810277d2
+SHA1: 587fb4d6e01c4f42059c092928ca1040a99d56bf
+SHA256: 4ef245a64f319c20c79ce8f5f4d40783d8d66ae822646349d6396e5ffaff6c15
+Section: Tweaks
+Description: iOS 16 Style Battery Indicator
+Author: MTAC
+Name: Ampere
+
+Package: com.mtac.ampere
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: MTAC
+Installed-Size: 604
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.mtac.ampere_1.4_iphoneos-arm.deb
+Size: 101102
+MD5sum: ef2d38afc6b8be000639201acb83717b
+SHA1: 3fe45d65fa17a300d1cc455876895567c7e5f635
+SHA256: 7cd7b24e72e9a652f0d538bdf000f4578de611376ebb20837a6e138dc85d1e21
+Section: Tweaks
+Description: iOS 16 Style Battery Indicator
+Author: MTAC
+Name: Ampere
+
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm64
+Maintainer: opa334
+Installed-Size: 340
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
+Size: 26884
+MD5sum: 1874e0da98f00417adab6dee7134f77c
+SHA1: 78b40438355e042de1ef082fcd9add718f7e1ec4
+SHA256: 5835a6b0eacd5d99d272b3f74a744b28b1c4c16ada03aade36d0a636bca5e1f0
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.altlist
+Version: 1.0.11
+Architecture: iphoneos-arm
+Maintainer: opa334
+Installed-Size: 388
+Depends: firmware (>=7.0)
+Filename: ./debs/com.opa334.altlist_1.0.11_iphoneos-arm.deb
+Size: 47100
+MD5sum: e3ed39c53a748c154fc1151ae181bb52
+SHA1: 103f6988e7a8ab9f1e83408ed7a78573f36cabef
+SHA256: c2299f0ee65bfb25c4549ec3f24594b035a7cdab364dbfffbf632d67e723b75f
+Section: System
+Description: A modern AppList alternative
+Tag: role::developer
+Author: opa334
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=altlistDp
+Name: AltList
+
+Package: com.opa334.ccsupport
+Version: 1.3.13-2
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 489
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/ccsupport_1.3.13-2_iphoneos-arm64.deb
+Size: 59098
+MD5sum: d5539bc8bdb34e422c81efc852c0d27f
+SHA1: 139c8e132f59d77252b84e32e1c84c2a52434bdf
+SHA256: 58c13b262ccb361787e30b58d81d8f7b0f37edb5bfbaa685caf4495e1fb378ef
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: Support tweak for CC modules!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.opa334.ccsupport
+Version: 1.3.13-2
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 423
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
+Filename: ./debs/ccsupport_1.3.13-2.deb
+Size: 64444
+MD5sum: 53582b19fdb575fa8eae3bc0e2fabe06
+SHA1: d3eaef9c0f74556cf86cf74ffacfe65c7afd8a20
+SHA256: 6f7ea4f20890ae879e9548b1f0261b8f12b37a6575ae8685d2585ec372669198
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Description: Support tweak for CC modules!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccsupportDp
+Dev: opa334
+Name: CCSupport
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.udevs.vpnindicator
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.udevs.vpnindicator_1.1.6_iphoneos-arm64.deb
+Size: 63010
+MD5sum: 571cacff074966ac37ffc7c00ac1c4d4
+SHA1: 51d4a92d39e56e4337746b4eb219b4d5b3792133
+SHA256: fa2ee7006da7e824cc336f1e4c1c586c23b4e6a91060d993e543ac420d03c398
+Section: Tweaks
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝数据图标显示VPN状态。修复支持rootless
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
+Package: com.udevs.vpnindicator
+Version: 1.1.7-1
+Architecture: iphoneos-arm64
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm64.deb
+Size: 63498
+MD5sum: 2f997db012b9656189d1db860aea38e0
+SHA1: 0a65a61d6cc50cb615c5d0fa563da36cdcc88300
+SHA256: a34c3e34fbe13b52a7c78443ab06e234ff8ef6a8dcbcce4bf6980bbbc6fda8a0
+Section: Tweaks
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
+ * 1.1.6: 支持iOS15
+ * 1.1.7: 支持iOS16
+ * 1.1.7-1: 补上上一版忘加的设置入口
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
+Package: com.udevs.vpnindicator
+Version: 1.1.7-1
+Architecture: iphoneos-arm
+Maintainer: udevs, squidforce
+Installed-Size: 420
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/com.udevs.vpnindicator_1.1.7-1_iphoneos-arm.deb
+Size: 63374
+MD5sum: 97f7f34328ad9c8b12a0e080ac041f70
+SHA1: 1812fc826a894f48b119b178051f490b90df7cd6
+SHA256: f0153d1ea327ee9dbbb8ace460421ffe15d8336500815421b7bb198629de5799
+Section: Tweaks
+Description: Indicates VPN state in status bar. 在状态栏的Wifi或蜂窝信号图标显示VPN状态。
+ * 1.1.6: 支持iOS15
+ * 1.1.7: 支持iOS16
+ * 1.1.7-1: 补上上一版忘加的设置入口
+Author: udevs
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.vpnindicator/icon/icon.png
+Name: VPNIndicator
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm.deb
+Size: 353080
+MD5sum: a0c56c27d2bd4277dfa72bc0a72d42fd
+SHA1: c46de29f16c8cf76523ab8dc555fee5c684b800e
+SHA256: 4b412c334ff4b0a6e2baf121a3ca99ed467efd736b8605568eb2833f16b2f56c
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: ellekit
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: Dhinak G <dhinak@dhinak.net>
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate, com.saurik.substrate.safemode
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_1.1.3_iphoneos-arm64.deb
+Size: 352628
+MD5sum: 600b4ddef6bd75c95ae868a7fed95c24
+SHA1: 7559bc0b8107dec16f3ed702bb5aa467a42f0552
+SHA256: b6fa34a45629f1eba602678d3322ad06d077b52e015223f99a989883652b277b
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+Author: Evelyn
+Icon: https://ellekit.space/logos/logo.png
+Name: ElleKit
+
+Package: emt.paisseon.xinamine
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: ./debs/emt.paisseon.xinamine_0.0.5_iphoneos-arm64.deb
+Size: 70006
+MD5sum: 7f8ed32b1fd837e82809b7f2b2600998
+SHA1: cca516b753396474b40a2d686795801a528a107a
+SHA256: 84c09be66731624a44a2f39b2acb8e90db6130cd14874bc1e127aafe7332c6c4
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: ez.now.xinaminepatcherscript
+Version: 1.7.4
+Architecture: iphoneos-arm64
+Maintainer: NoW4U2Kid
+Depends: mobilesubstrate, ellekit, file, odcctools, ldid, emt.paisseon.xinamine
+Filename: ./debs/ez.now.xinaminepatcherscript_1.7.4_iphoneos-arm64.deb
+Size: 4232
+MD5sum: 876acfaf6faddbf0addfa6884392952c
+SHA1: 0bf1573b8ca243625ee58fdc2602b1cb7d3f9b60
+SHA256: 8a08519c40a29f79018571e0ec065a4951081e70bf665d6ae35af1377462a0e8
+Section: System
+Description: IMPORTANT: Make sure to use Dopamine 1.1 or Xinam1ne if you are using Dopamine. This package now automatically creates symlinks as well. To convert, just go to Jailbreak Filza (Trollstore one won't work), tap and hold on the deb you are wanting to convert, select "Scripts" from the pop-up menu, and click XinaminePatcher. Then just wait for your deb to convert!
+ - YES, this is much better than Derootifier or any other rootless conversion script.
+ - Supported jailbreaks: Dopamine, Fugu15Max, Palera1n (rootless), Xina, or any other rootless jailbreak.
+ - Repacks tweaks as rootless, but this script is by far the best script for converting tweaks to rootless because it additionally modifies paths like with Xina jailbreak, so it works with almost every tweak.
+ - Credits: @Xina520 (for the Xina jailbreak, which I looked at for inspiration for modifying paths), @Teutates on GitHub (for repack-rootless.sh, which I used to automate the default rootless conversion process), @sudo for ideas and a few modifications here and there, @évelyne for Allemand (removes the need for having Legacy arm64e Support/oldabi)
+Author: NoW4U2Kid
+Name: Xinamine Patcher
+
+Package: oldabi
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: ./debs/oldabi_0.3.2_iphoneos-arm64.deb
+Size: 16258
+MD5sum: 8515530621544c1a761fab6add0ab916
+SHA1: 0b64b91ab38623a10f8cf19fb5dd26e150cecf1e
+SHA256: 9834b99b01159722b4f7c2ce498ea1fd07eb36528c237be6899c26605e5dfbed
+Description: Support for legacy arm64e ABI in iOS 15.0+
+Author: Evelyn
+Name: Legacy arm64e Support
+
+Package: preferenceloader
+Version: 2.2.6
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 526
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.6.deb
+Size: 36414
+MD5sum: 551c39b9d6d58be5ad82e81a59a1715f
+SHA1: c1d547036234756c5e75a633393d4ffa791b1126
+SHA256: 335fff25ff13021889ba856ce84fbc23ba25569f1c6cc65a3e113b433b1ed60f
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Sam Bingner <maintainer@sbdhi.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dustinhowett
+Name: PreferenceLoader
+
+Package: preferenceloader
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 386
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/preferenceloader_2.2.7_iphoneos-arm64.deb
+Size: 17538
+MD5sum: 833bb8b591a71c0ea961c4169b96c67c
+SHA1: 8a57d591920048d0114a1f8f3a87674124c41a91
+SHA256: e700e6363ce2775298b976dad6a264487f4cd74631ef57ef999245b4f75c2c85
+Section: System
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Description: load preferences in style
+Tag: role::hacker, purpose::library
+Author: Dhinak G <dhinak@dhinak.net>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
+Dev: dhinakg
+Name: PreferenceLoader
+

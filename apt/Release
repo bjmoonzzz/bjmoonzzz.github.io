@@ -1,0 +1,9 @@
+Origin: benjamin's Private Repo
+Label: benjamin's Private Repo
+Suite: stable
+Version: 1.0
+Codename: benjamin
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: benjamin's Cydia Repository
+Icon: file://CydiaIcon.png
